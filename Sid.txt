@@ -1,0 +1,4 @@
+Sid's Statement
+2011-10-07 18:34:08 +0100 Opening Balance £0
+2011-10-07 18:34:08 +0100 Deposit £100
+2011-10-07 18:34:08 +0100 Withdrawal £375
